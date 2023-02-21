@@ -19,6 +19,11 @@
                 <?php include "./view_profiles.php" ?>
             </article>
 
+            <article>
+                <h2>Login includas nedan</h2>
+                <?php include "./view_login.php" ?>
+            </article>
+
         </section>
 
         <!-- Footern innehåller t.ex. somelänkar och kontaktuppg -->
